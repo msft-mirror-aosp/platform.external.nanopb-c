@@ -1,0 +1,16 @@
+name: "nanopb"
+description: "Nanopb - Protocol Buffers for Embedded Systems"
+third_party {
+  identifier: {
+    type: "Git"
+    value: "https://github.com/nanopb/nanopb"
+    version: "nanopb-0.3.6"
+  }
+  security {
+    tag: "NVD-CPE2.3:cpe:/a:nanopb_project:nanopb:0.3.6:*:*:*:*:*:*:*"
+  }
+  homepage: "http://kapsi.fi/~jpa/nanopb/"
+  version: "nanopb-0.3.6"
+  last_upgrade_date { year: 2016 month: 9 day: 5 }
+  license_type: NOTICE
+}
