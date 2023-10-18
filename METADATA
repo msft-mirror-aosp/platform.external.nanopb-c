@@ -7,7 +7,7 @@ third_party {
     version: "nanopb-0.3.6"
   }
   security {
-    tag: "NVD-CPE2.3:cpe:/a:nanopb_project:nanopb:0.3.6:*:*:*:*:*:*:*"
+    tag: "NVD-CPE2.3:cpe:/a:nanopb_project:nanopb:0.3.6"
   }
   homepage: "http://kapsi.fi/~jpa/nanopb/"
   version: "nanopb-0.3.6"
