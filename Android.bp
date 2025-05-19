@@ -79,6 +79,14 @@ cc_library_static {
         "com.android.bt",
     ],
     min_sdk_version: "30",
+    product_available: true,
+    recovery_available: true,
+    vendor_available: true,
+    target: {
+        windows: {
+            enabled: true,
+        }
+    }
 }
 
 cc_library_static {
